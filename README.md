@@ -37,12 +37,16 @@ Soy un apasionado desarrollador web fullstack. Mi enfoque principal se encuentra
   <hr />
 
   <h2>Tecnologías que uso</h2>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png' alt='HTML'
-    class="logo"></img>
-
   <ul>
-    <li>HTML5, CSS3, JavaScript</li>
-    <li>React.js para construir interfaces interactivas</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>ReactJS</li>
+    <li>Redux</li>
+    <li>NodeJs</li>
+    <li>Sequalize</li>
+    <li>Git</li>
+    <li>PostreSQL</li>
   </ul>
 
 </body>
