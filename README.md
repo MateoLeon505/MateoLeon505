@@ -40,7 +40,6 @@ Soy un apasionado desarrollador web fullstack. Mi enfoque principal se encuentra
   <ul>
     <li>HTML5, CSS3, JavaScript</li>
     <li>React.js para construir interfaces interactivas</li>
-    <li>[Otras tecnologías que utilices]</li>
   </ul>
 
 </body>
