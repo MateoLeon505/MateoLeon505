@@ -4,39 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mi README</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
 
-    h1 {
-      text-align: center;
-    }
-
-    h2 {
-      color: #3498db;
-    }
-
-    p {
-      text-align: justify;
-    }
-
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-
-    li::before {
-      content: "•";
-      color: #3498db;
-      display: inline-block;
-      width: 1em;
-      margin-left: -1em;
-    }
-  </style>
 </head>
 <body>
 
