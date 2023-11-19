@@ -10,7 +10,6 @@
 
   <h1>Hola, mi nombre es Mateo León 👋</h1>
 
-  <hr />
 
   <h2>¿Quién soy?🌱</h2>
 
