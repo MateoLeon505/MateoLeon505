@@ -29,9 +29,7 @@ Soy un apasionado desarrollador web fullstack. Mi enfoque principal se encuentra
 
   <h2>Tecnologías que uso 💻</h2>
 
-
 <br/>  
-
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
