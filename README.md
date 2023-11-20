@@ -45,6 +45,93 @@ Soy un apasionado desarrollador web fullstack. Mi enfoque principal se encuentra
 <h2>Contacto</h2>
 <p>Linkedin: https://www.linkedin.com/in/mateo-le%C3%B3n-097b57268/</p>
 <p>E-mail: mateolt505@gmail.com</p>
+
+
+
+
+
+
+
+
+
+## <div align="center">Hola, mi nombre es Mateo León 👋</div>  
+  
+
+
+
+### ¿Quién soy?🌱  
+Soy un apasionado desarrollador web fullstack. Mi enfoque principal se encuentra en el desarrollo frontend, donde trabajo arduamente para fusionar la creatividad visual con la funcionalidad impecable.  
+  
+
+
+
+### ¿Qué hago?🔭  
+Actualmente, me encuentro desarrollando proyectos que me dan la oportunidad para implementar innovaciones y mejorar mis habilidades. Mi enfoque es crear soluciones web elegantes y funcionales que no solo resuelvan problemas, sino que también brinden una experiencia única a los usuarios.  
+  
+
+
+
+### ¿Adónde me dirijo?  
+Mis objetivos profesionales son crecer como desarrollador web, explorar el emocionante mundo del desarrollo de aplicaciones móviles y contribuir a proyectos que generen un impacto positivo en la sociedad. Siempre estoy abierto a nuevas oportunidades y desafíos emocionantes.  
+  
+
+<br/>  
+
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+
+### Contacto  
+<a href="https://github.com/MateoLeon505" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/22949021/mateo-leon" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/mateo-león-097b57268/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 </body>
 </html>
 
