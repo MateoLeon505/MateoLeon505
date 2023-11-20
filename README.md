@@ -28,58 +28,11 @@ Soy un apasionado desarrollador web fullstack. Mi enfoque principal se encuentra
   </p>
 
   <h2>Tecnologías que uso 💻</h2>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Ant Desing</li>
-    <li>JavaScript</li>
-    <li>ReactJS</li>
-    <li>Redux</li>
-    <li>Redux Toolkit</li>
-    <li>NodeJs</li>
-    <li>Sequalize</li>
-    <li>Git</li>
-    <li>PostreSQL</li>
-  </ul>
 
-<h2>Contacto</h2>
-<p>Linkedin: https://www.linkedin.com/in/mateo-le%C3%B3n-097b57268/</p>
-<p>E-mail: mateolt505@gmail.com</p>
-
-
-
-
-
-
-
-
-
-## <div align="center">Hola, mi nombre es Mateo León 👋</div>  
-  
-
-
-
-### ¿Quién soy?🌱  
-Soy un apasionado desarrollador web fullstack. Mi enfoque principal se encuentra en el desarrollo frontend, donde trabajo arduamente para fusionar la creatividad visual con la funcionalidad impecable.  
-  
-
-
-
-### ¿Qué hago?🔭  
-Actualmente, me encuentro desarrollando proyectos que me dan la oportunidad para implementar innovaciones y mejorar mis habilidades. Mi enfoque es crear soluciones web elegantes y funcionales que no solo resuelvan problemas, sino que también brinden una experiencia única a los usuarios.  
-  
-
-
-
-### ¿Adónde me dirijo?  
-Mis objetivos profesionales son crecer como desarrollador web, explorar el emocionante mundo del desarrollo de aplicaciones móviles y contribuir a proyectos que generen un impacto positivo en la sociedad. Siempre estoy abierto a nuevas oportunidades y desafíos emocionantes.  
-  
 
 <br/>  
 
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
