@@ -42,6 +42,9 @@ Soy un apasionado desarrollador web fullstack. Mi enfoque principal se encuentra
     <li>PostreSQL</li>
   </ul>
 
+<h2>Contacto</h2>
+<p>Linkedin: https://www.linkedin.com/in/mateo-le%C3%B3n-097b57268/</p>
+<p>E-mail: mateolt505@gmail.com</p>
 </body>
 </html>
 
