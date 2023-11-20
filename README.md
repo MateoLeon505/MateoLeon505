@@ -31,9 +31,11 @@ Soy un apasionado desarrollador web fullstack. Mi enfoque principal se encuentra
   <ul>
     <li>HTML</li>
     <li>CSS</li>
+    <li>Ant Desing</li>
     <li>JavaScript</li>
     <li>ReactJS</li>
     <li>Redux</li>
+    <li>Redux Toolkit</li>
     <li>NodeJs</li>
     <li>Sequalize</li>
     <li>Git</li>
