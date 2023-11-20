@@ -27,7 +27,7 @@ Soy un apasionado desarrollador web fullstack. Mi enfoque principal se encuentra
     Mis objetivos profesionales son crecer como desarrollador web, explorar el emocionante mundo del desarrollo de aplicaciones móviles y contribuir a proyectos que generen un impacto positivo en la sociedad. Siempre estoy abierto a nuevas oportunidades y desafíos emocionantes.
   </p>
 
-  <h2>Tecnologías que uso</h2>
+  <h2>Tecnologías que uso 💻</h2>
   <ul>
     <li>HTML</li>
     <li>CSS</li>
