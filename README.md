@@ -12,7 +12,7 @@
   
   <hr />
 
-  <h2>¿Quién soy?🌱</h2>
+  <h2>¿Quién soy?</h2>
  <p>
 Soy estudiante de ingeniería multimedia y desarrollador web fullstack. Mi enfoque principal se encuentra en el desarrollo frontend, donde trabajo arduamente para fusionar la creatividad visual con la funcionalidad impecable.
 </p>
@@ -27,7 +27,7 @@ Soy estudiante de ingeniería multimedia y desarrollador web fullstack. Mi enfoq
     Mis objetivos profesionales son crecer como desarrollador web, explorar el emocionante mundo del desarrollo de aplicaciones móviles y contribuir a proyectos que generen un impacto positivo en la sociedad. Siempre estoy abierto a nuevas oportunidades y desafíos emocionantes.
   </p>
 
-  <h2>Tecnologías💻</h2>
+  <h2>Tecnologías</h2>
 
 <br/>  
 <table><tr><td valign="top" width="33%">
