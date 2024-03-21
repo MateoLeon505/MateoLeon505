@@ -9,8 +9,7 @@
 <body>
 
   <h1 align="center">Hola, mi nombre es Mateo👋</h1>
-  
-  <hr />
+<br/>  
 
  <p>
 Soy estudiante de ingeniería multimedia y desarrollador web fullstack. Mi enfoque principal se encuentra en el desarrollo frontend, donde siempre busco fusionar la creatividad visual con la funcionalidad impecable.
