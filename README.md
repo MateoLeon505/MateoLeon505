@@ -22,7 +22,6 @@ Soy estudiante de ingeniería multimedia y desarrollador web fullstack. Mi enfoq
   <p>
     Mis objetivos profesionales son crecer como desarrollador web, explorar el emocionante mundo del desarrollo de aplicaciones móviles y contribuir a proyectos que generen un impacto positivo en la sociedad. Siempre estoy abierto a nuevas oportunidades y desafíos emocionantes.
   </p>
-<br/>  
   <h2>Tecnologías</h2>
 <table><tr><td valign="top" width="33%">
 
@@ -67,11 +66,6 @@ Soy estudiante de ingeniería multimedia y desarrollador web fullstack. Mi enfoq
 <a href="https://linkedin.com/in/mateo-león-097b57268/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-
-
-<br/>
-<br/>
-
 </body>
 </html>
 
