@@ -8,7 +8,7 @@
 </head>
 <body>
 
-  <h1 align="center">Hola, mi nombre es Mateo👋</h1>
+  <h1 align="center">Hola, Soy Mateo👋</h1>
 <br/>  
 
  <p>
