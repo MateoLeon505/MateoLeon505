@@ -22,10 +22,8 @@ Soy estudiante de ingeniería multimedia y desarrollador web fullstack. Mi enfoq
   <p>
     Mis objetivos profesionales son crecer como desarrollador web, explorar el emocionante mundo del desarrollo de aplicaciones móviles y contribuir a proyectos que generen un impacto positivo en la sociedad. Siempre estoy abierto a nuevas oportunidades y desafíos emocionantes.
   </p>
-
-  <h2>Tecnologías</h2>
-
 <br/>  
+  <h2>Tecnologías</h2>
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -60,9 +58,6 @@ Soy estudiante de ingeniería multimedia y desarrollador web fullstack. Mi enfoq
 </td></tr></table>  
 
 <br/>  
-
-
-
 ### Contacto  
 <a href="https://github.com/MateoLeon505" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
