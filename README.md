@@ -16,12 +16,9 @@ Soy estudiante de ingeniería multimedia y desarrollador web fullstack. Mi enfoq
 </p>
 
   <p>
-    Actualmente, me encuentro desarrollando proyectos que me dan la oportunidad de implementar innovaciones y mejorar mis habilidades. Mi enfoque es crear soluciones web elegantes y funcionales que no solo resuelvan problemas, sino que también brinden una experiencia única a los usuarios.
+    Actualmente, me encuentro desarrollando proyectos que me dan la oportunidad de implementar innovaciones y mejorar mis habilidades. Mi enfoque es crear soluciones web elegantes y funcionales que brinden una experiencia única a los usuarios.
   </p>
 
-  <p>
-    Mis objetivos profesionales son crecer como desarrollador web, explorar el emocionante mundo del desarrollo de aplicaciones móviles y contribuir a proyectos que generen un impacto positivo en la sociedad. Siempre estoy abierto a nuevas oportunidades y desafíos emocionantes.
-  </p>
   <h2>Tecnologías</h2>
 <table><tr><td valign="top" width="33%">
 
