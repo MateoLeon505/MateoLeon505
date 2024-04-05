@@ -14,7 +14,7 @@
   <li> 🌱 I'm a multimedia engineering student and full stack web developer.</li>
   <li> 👀 My focus is on frontend development.</li>
   <li> 💻 I´m currently developing projects to improve my skills.</li>
-  <li> 🎯 I'm looking for to create elegant and functional web solutions that provide a unique experience to users.</li>
+  <li> 🎯 I'm looking to create elegant and functional web solutions that provide a unique experience to users.</li>
   <li><a href="https://portfoliio-five.vercel.app/" target="_blank">Portfolio</a></li>
 </ul>
 
