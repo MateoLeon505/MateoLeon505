@@ -15,7 +15,9 @@
   <li> 👀 Mi enfoque principal se encuentra en el desarrollo frontend.</li>
   <li> 💻 Actualmente desarrollo proyectos para mejorar mis habilidades.</li>
   <li> 🎯 Busco crear soluciones web elegantes y funcionales que brinden una experiencia única a los usuarios.</li>
+  <li><a href="https://portfoliio-five.vercel.app/" target="_blank">Portfolio</a></li>
 </ul>
+
   <h2>Tecnologías</h2>
 <table><tr><td valign="top" width="33%">
 
