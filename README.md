@@ -13,7 +13,7 @@
 <ul>
   <li> 🌱 Soy estudiante de ingeniería multimedia y desarrollador web fullstack.</li>
   <li> 👀 Mi enfoque principal se encuentra en el desarrollo frontend.</li>
-  <li> 💻 Actualmente, me encuentro desarrollando proyectos que me dan la oportunidad de implementar innovaciones y mejorar mis habilidades.</li>
+  <li> 💻 Actualmente desarrollo proyectos para mejorar mis habilidades.</li>
   <li> 🎯 Busco crear soluciones web elegantes y funcionales que brinden una experiencia única a los usuarios.</li>
 </ul>
   <h2>Tecnologías</h2>
