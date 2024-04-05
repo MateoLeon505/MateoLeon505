@@ -8,17 +8,17 @@
 </head>
 <body>
 
-  <h3>👋 Hola, Soy Mateo</h1>
+  <h3>👋 Hi, i´m Mateo</h1>
 <br/>  
 <ul>
-  <li> 🌱 Soy estudiante de ingeniería multimedia y desarrollador web fullstack.</li>
-  <li> 👀 Mi enfoque principal se encuentra en el desarrollo frontend.</li>
-  <li> 💻 Actualmente desarrollo proyectos para mejorar mis habilidades.</li>
-  <li> 🎯 Busco crear soluciones web elegantes y funcionales que brinden una experiencia única a los usuarios.</li>
+  <li> 🌱 I'm a multimedia engineering student and full stack web developer.</li>
+  <li> 👀 My focus is on frontend development.</li>
+  <li> 💻 I´mm currently developing projects to improve my skills.</li>
+  <li> 🎯 I'm looking for to create elegant and functional web solutions that provide a unique experience to users.</li>
   <li><a href="https://portfoliio-five.vercel.app/" target="_blank">Portfolio</a></li>
 </ul>
 
-  <h2>Tecnologías</h2>
+  <h2>Skills</h2>
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -52,7 +52,7 @@
 
 </td></tr></table>  
 
-### Contacto  
+### Contact  
 <a href="https://github.com/MateoLeon505" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
