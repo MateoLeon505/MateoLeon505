@@ -8,7 +8,7 @@
 </head>
 <body>
 
-  <h4 align="center">👋 Hola, Soy Mateo</h1>
+  <h3>👋 Hola, Soy Mateo</h1>
 <br/>  
 <ul>
   <li> 🌱 Soy estudiante de ingeniería multimedia y desarrollador web fullstack.</li>
