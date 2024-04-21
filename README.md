@@ -8,8 +8,8 @@
 </head>
 <body>
 
-  <h3>👋 Hi, i´m Mateo
-  </h1>
+  <h3>👋 Hi, i´m Mateo 👋 
+  </h3>
 <br/>  
 <ul>
   <li> 🌱 I'm a multimedia engineering student and full stack web developer.</li>
