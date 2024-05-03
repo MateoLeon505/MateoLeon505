@@ -8,7 +8,7 @@
 </head>
 <body>
 
-  <h3>👋 Hi, i´m Mateo León
+  <h3>👋 Hi, i´m Mateo 
   </h3>
 <br/>  
 <ul>
