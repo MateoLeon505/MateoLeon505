@@ -13,8 +13,6 @@
 <br/>  
 <ul>
   <li> 🌱 I'm a multimedia engineering student and Front-end developer.</li>
-  <li> 👀 My focus is on frontend development.</li>
-  <li> 💻 I´m currently developing projects to improve my skills.</li>
   <li> 🎯 I'm looking to create elegant and functional web solutions that provide a unique experience to users.</li>
   <a href="https://portfoliio-five.vercel.app/" target="_blank">💼 My Portfolio.</a>
 </ul>
